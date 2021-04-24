@@ -1,0 +1,9 @@
+@startuml
+
+[sub_core] --> [sub1]
+[sub_core] --> [sub2]
+[sub1] --> [sub_integrate]
+[sub2] --> [sub_integrate]
+
+@enduml
+

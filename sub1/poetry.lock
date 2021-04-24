@@ -1,0 +1,20 @@
+[[package]]
+name = "sub-core"
+version = "0.1.0"
+description = ""
+category = "main"
+optional = false
+python-versions = "^3.8"
+develop = false
+
+[package.source]
+type = "directory"
+url = "../sub_core"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "c4017b9ad53e57a63ef4aa515ee63ae4e6b00b7fee8dc965f753f8f26797377c"
+
+[metadata.files]
+sub-core = []
